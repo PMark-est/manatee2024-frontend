@@ -1,0 +1,12 @@
+.openapi-generator-ignore
+apis/ApplicationApi.ts
+apis/InterviewApi.ts
+apis/index.ts
+index.ts
+models/Application.ts
+models/ApplicationState.ts
+models/Candidate.ts
+models/Interview.ts
+models/InterviewType.ts
+models/index.ts
+runtime.ts
